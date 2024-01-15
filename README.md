@@ -1,4 +1,4 @@
-Hi! I'm June. 
+Hi! I'm James. 
 
 # Check out [Loretta](https://github.com/LorettaDevs/)!
 
