@@ -1,6 +1,6 @@
 Hi! I'm James. 
 
-Contact me on Discord: 917505067442126909 
+Contact me on Discord, always verify you are talking to me. @advesa (917505067442126909) 
 
 # Check out [Loretta](https://github.com/LorettaDevs/)!
 
