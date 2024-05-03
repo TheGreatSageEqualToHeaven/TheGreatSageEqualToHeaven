@@ -1,4 +1,4 @@
-Hi! I'm James. 
+Hi! I'm June. 
 
 Contact me on Discord, always verify you are talking to me. @advesa (917505067442126909) 
 
