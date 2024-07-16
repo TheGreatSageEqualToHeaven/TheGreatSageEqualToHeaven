@@ -16,7 +16,7 @@ Contact me on Discord, always verify you are talking to me. `@advesa` (917505067
 
 [Lua 5.1 all opcodes test](https://gist.github.com/TheGreatSageEqualToHeaven/35391fa59a37e89898232650c2290392)  
 [Luau all opcodes test](https://gist.github.com/TheGreatSageEqualToHeaven/08dc441f3e61d83c058c8cd2143bc1bc)  
-[Lua Syntax-based version detection](https://gist.github.com/TheGreatSageEqualToHeaven/4c57fe3e5f71c0b361282d77c787095f)  
+[Lua syntax-based version detection](https://gist.github.com/TheGreatSageEqualToHeaven/4c57fe3e5f71c0b361282d77c787095f)  
 [Luau optimize level detection](https://gist.github.com/TheGreatSageEqualToHeaven/c2d9bfc886f9ff845b17f2aed7cd70c2)  
 
 ## Publications
