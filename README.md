@@ -5,7 +5,7 @@ Contact me on Discord, always verify you are talking to me. `@advesa` (917505067
 ## Main Projects
 
 [Loretta](https://github.com/LorettaDevs/) - A C# Lua, GLua and Luau parser, code analysis, transformation and code generation toolkit. Supports PUC Lua 5.x, LuaJIT 2.0, LuaJIT 2.1, FiveM, GLua and Luau (Roblox Lua).  
-[Fiu](https://github.com/rce-incorporated/Fiu) - Luau bytecode interpreter for Luau and Lua 5.3+.  
+[Fiu](https://github.com/rce-incorporated/Fiu) - Luau bytecode interpreter for Luau.
 
 ## Other Projects 
 
