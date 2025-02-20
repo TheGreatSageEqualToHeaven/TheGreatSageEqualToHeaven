@@ -7,11 +7,6 @@ Contact me on Discord, always verify you are talking to me. `@advesa` (917505067
 [Loretta](https://github.com/LorettaDevs/) - A C# Lua, GLua and Luau parser, code analysis, transformation and code generation toolkit. Supports PUC Lua 5.x, LuaJIT 2.0, LuaJIT 2.1, FiveM, GLua and Luau (Roblox Lua).  
 [Fiu](https://github.com/rce-incorporated/Fiu) - Luau bytecode interpreter for Luau.
 
-## Other Projects 
-
-[datamodelpatch](https://github.com/latte-soft/datamodelpatch) - Accurate decompilation of the Roblox Player's distribution of DataModelPatch.rbxm  
-[builtinplugins](https://github.com/latte-soft/builtinplugins) - Accurate decompilation of Roblox Studio's BuiltinPlugins  
-
 ## Snippets 
 
 [Lua 5.1 all opcodes test](https://gist.github.com/TheGreatSageEqualToHeaven/35391fa59a37e89898232650c2290392)  
