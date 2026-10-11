@@ -1,7 +1,5 @@
 Hi!
 
-Contact me on Discord, always verify you are talking to me. `@sheknowsyouheardher` (1512562665971777607) 
-
 ## Main Projects
 
 [Loretta](https://github.com/LorettaDevs/) - A C# Lua, GLua and Luau parser, code analysis, transformation and code generation toolkit. Supports PUC Lua 5.x, LuaJIT 2.0, LuaJIT 2.1, FiveM, GLua and Luau (Roblox Lua).  
